@@ -23,6 +23,6 @@ client.on("message", async message => {
 
 });
 
-client.login("OTA2MzczMzU1NjM5Mjc1NTIx.YYXr9w.noqfR6UlpGl9zjh7h1_vB6ClnxI");
+client.login(" ");//token discord bot
 
 
